@@ -4,7 +4,7 @@
 Recipe Radar is a World of Warcraft UI addon that assists players in finding recipes. It knows about vendors who sell recipes in the current region or by profession. It has a number of filtering options and can even locate vendors on the world map.
 
 
-![Main Window](http://imgur.com/5Dw3mCH)
+![Main Window](http://i.imgur.com/5Dw3mCH.jpg) ![Imgur](http://i.imgur.com/oOghJy5.jpg) ![Imgur](http://i.imgur.com/cZRazf3.jpg)
 
 
 When you get in game, you may want to map a key to toggle Recipe Radar.
@@ -28,3 +28,4 @@ Just copy "RecipeRadar" folder to your addon's directory.
 #Credits
 
 originaly made by Jay Miller [jnmiller@cryptofreak.org]
+http://www.cryptofreak.org/projects/reciperadar/
