@@ -14,6 +14,14 @@ minimap to open Recipe Radar or use the slash command, '/rrdr'.
 
 #Last changes:
 
+v1.15
+
+- Added square minimaps support for icons on minimap & for minimapbutton
+- Fixed first startup errors
+- More support for MBB
+
+v1.14
+
 - Added MBB compatibility (better minimap button managment),
 - Added RUru localization by Maus
 
