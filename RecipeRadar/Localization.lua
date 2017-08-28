@@ -1313,7 +1313,7 @@ if (GetLocale() == "esES") then
    RecipeRadar_Strings["%s Vendor"] = "%s Vendedor"
    RecipeRadar_Strings["Intermittent"] = "Intermitente"
    RecipeRadar_Strings["Quest"] = "Misión"
-   RecipeRadar_Strings["Roving"] = "Vagueación"
+   RecipeRadar_Strings["Roving"] = "Ambulante"
    RecipeRadar_Strings["Seasonal"] = "Estacional"
 
    -- faction names for recipe reputation requirements
