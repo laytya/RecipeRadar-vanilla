@@ -1288,8 +1288,8 @@ if (GetLocale() == "esES") then
    RecipeRadar_Strings["Engineering"] = "Ingeniería"
    RecipeRadar_Strings["First Aid"] = "Primeros auxilios"
    RecipeRadar_Strings["Fishing"] = "Pesca"
-   RecipeRadar_Strings["Leatherworking"] = "Marroquinería"
-   RecipeRadar_Strings["Tailoring"] = "Costura"
+   RecipeRadar_Strings["Leatherworking"] = "Peletería"
+   RecipeRadar_Strings["Tailoring"] = "Sastrería"
 
    -- strings in the availability filtering dropdown
    RecipeRadar_Strings["Availability"] = "Disponibilidad"
