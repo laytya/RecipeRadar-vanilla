@@ -145,7 +145,7 @@ end
 function RecipeRadar_Minimap_GetPosition(offs_x, offs_y, scale_x, scale_y)
 
    local map_x, map_y = offs_x * scale_x, offs_y * scale_y
-   local dist = RecipeRadar_Minimap_Pythagorean(map_x, map_y)
+   local mapDist = RecipeRadar_Minimap_Pythagorean(map_x, map_y)
 
 	local mapWidth = Minimap:GetWidth()/2;
 	local mapHeight = Minimap:GetHeight()/2;
