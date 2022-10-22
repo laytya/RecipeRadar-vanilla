@@ -1,5 +1,8 @@
 Recipe Radar (vanilla) ChangeLog
 
+v1.15.1; 22.10.2022
+- Fixed minimap button placing
+
 v1.15; 3.02.2017
 
 - Added square minimaps support for icons on minimap & for minimapbutton
