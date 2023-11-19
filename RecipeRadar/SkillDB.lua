@@ -341,8 +341,10 @@ function RecipeRadar_SkillDB_ParseSpellbookFrame()
       
    end
 
-   HideUIPanel(TradeSkillFrame)
-   HideUIPanel(CraftFrame)
+   -- HideUIPanel(TradeSkillFrame)
+   -- HideUIPanel(CraftFrame)
+   CloseCraft()
+   CloseTradeSkill()
    
    RecipeRadar_SkillDB_HideSpellbookFrame(need_close)
 
