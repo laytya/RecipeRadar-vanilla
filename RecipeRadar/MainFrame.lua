@@ -34,12 +34,19 @@ end
 
 function RecipeRadar_Frame_Show()
 
+	local function Stub() end
+	local OldSound = PlaySound
+	PlaySound = Stub
+   
    ShowUIPanel(RecipeRadarFrame)
    RecipeRadar_SkillDB_ParseSpellbookFrame()
    RecipeRadar_SkillDB_ParseSkillFrame()
    RecipeRadar_SkillDB_ParseReputationFrame()
+   
    RecipeRadar_FrameUpdate()
-
+   
+   PlaySound = OldSound
+   
 end
 
 function RecipeRadar_FrameUpdate()
